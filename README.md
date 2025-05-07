@@ -81,6 +81,8 @@ deactivate
 - Scikit-learn documentation: https://scikit-learn.org
 - Airline Passenger Satisfaction Dataset (source: Kaggle)
 
+---
+
 ## Attribution
 
 This project was developed under the **Microsoft AI National Skilling Initiative (AINSI)** in collaboration with the **All India Council for Technical Education (AICTE)**, Government of India.
