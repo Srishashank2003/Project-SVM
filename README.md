@@ -79,7 +79,7 @@ deactivate
 ## References
 
 - Scikit-learn documentation: https://scikit-learn.org
-- Airline Passenger Satisfaction Dataset (source: Kaggle)
+- Airline Passenger Satisfaction Dataset (Source: Kaggle)
 
 ---
 
