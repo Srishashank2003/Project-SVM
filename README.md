@@ -24,9 +24,7 @@ Accurately predicting Customer Satisfaction levels is critical for enhancing air
 ## Results
 
 - Each kernel was tested for performance using the same train-test split.
-
 - Visual comparison chart added for model accuracies.
-
 - Feature importance plot generated to understand key influencing features.
 
 ---

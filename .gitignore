@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+*.env
+*.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# MacOS
+.DS_Store
+
+# System files
+Thumbs.db
+
+# Logs
+*.log
+
+# Cache
+.cache/
+*.sqlite3
+
+# PyInstaller
+dist/
+build/
+
+# Pytest
+.pytest_cache/
+
+# PyCharm (IDE)
+.idea/
+
+# Coverage reports
+.coverage
+
+# Mypy type-checking
+.mypy_cache/
